@@ -1,0 +1,4 @@
+foursquareData
+==============
+
+analyse foursquare dataset.
